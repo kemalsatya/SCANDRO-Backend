@@ -6,7 +6,7 @@ let data_lukisan = [
     year: 1503,
     style: "Renaissance",
     location: "Louvre Museum",
-    description: "Lukisan potret paling terkenal di dunia.",
+    description: "The most famous portrait painting in the world.",
     price: 860,
     country: "Italy",
   },
@@ -17,7 +17,7 @@ let data_lukisan = [
     year: 1889,
     style: "Post-Impressionism",
     location: "Museum of Modern Art (MoMA)",
-    description: "Lukisan pemandangan malam dengan pusaran bintang.",
+    description: "A night landscape painting with swirling stars.",
     price: 920,
     country: "Netherlands",
   },
@@ -28,7 +28,7 @@ let data_lukisan = [
     year: 1498,
     style: "Renaissance",
     location: "Santa Maria delle Grazie, Milan",
-    description: "Menggambarkan perjamuan terakhir Yesus dengan para rasul.",
+    description: "Depicts Jesus' last meal with his apostles.",
     price: 750,
     country: "Italy",
   },
@@ -39,8 +39,7 @@ let data_lukisan = [
     year: 1893,
     style: "Expressionism",
     location: "National Museum, Oslo",
-    description:
-      "Menggambarkan sosok yang dilanda kecemasan dengan latar langit merah darah.",
+    description: "Depicts an agonizing figure against a blood-red sky.",
     price: 680,
     country: "Norway",
   },
@@ -52,7 +51,7 @@ let data_lukisan = [
     style: "Baroque",
     location: "Mauritshuis, Hague",
     description:
-      "Dijuluki 'Mona Lisa dari Utara' karena ekspresinya yang misterius.",
+      "Nicknamed 'the Mona Lisa of the North' due to its mysterious expression.",
     price: 550,
     country: "Netherlands",
   },
@@ -64,7 +63,7 @@ let data_lukisan = [
     style: "Cubism",
     location: "Museo Reina Sofía, Madrid",
     description:
-      "Karya anti-perang yang menggambarkan penderitaan akibat pemboman Guernica.",
+      "An anti-war work depicting suffering from the bombing of Guernica.",
     price: 890,
     country: "Spain",
   },
@@ -75,7 +74,8 @@ let data_lukisan = [
     year: 1931,
     style: "Surrealism",
     location: "Museum of Modern Art (MoMA)",
-    description: "Terkenal dengan jam-jam saku yang meleleh di lanskap sepi.",
+    description:
+      "Famous for its melting pocket watches in a desolate landscape.",
     price: 450,
     country: "Spain",
   },
@@ -85,13 +85,12 @@ let data_lukisan = [
     artist: "Claude Monet",
     year: 1915,
     style: "Impressionism",
-    location: "Berbagai museum",
+    location: "Various museums",
     description:
-      "Bagian dari seri lukisan yang menggambarkan taman air Monet di Giverny.",
+      "Part of a series of paintings depicting Monet's water garden at Giverny.",
     price: 600,
     country: "France",
   },
-  // Ditambahkan dua lukisan baru:
   {
     id: 9,
     title: "American Gothic",
@@ -100,7 +99,7 @@ let data_lukisan = [
     style: "Regionalism",
     location: "Art Institute of Chicago",
     description:
-      "Lukisan potret seorang petani dan putrinya di depan rumah kecil.",
+      "A portrait painting of a farmer and his daughter in front of a small house.",
     price: 400,
     country: "United States",
   },
@@ -112,7 +111,7 @@ let data_lukisan = [
     style: "Renaissance",
     location: "Uffizi Gallery, Florence",
     description:
-      "Menggambarkan dewi Venus muncul dari laut sebagai wanita dewasa.",
+      "Depicts the goddess Venus emerging from the sea as an adult woman.",
     price: 700,
     country: "Italy",
   },
