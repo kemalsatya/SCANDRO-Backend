@@ -2,6 +2,9 @@
 
 > _Project ini dibuat untuk memenuhi tugas SC BackEnd_
 
+Project ini mengimplementasikan manajemen lukisan yang ada pada sebuah museum.
+Begitu pula nama project ini diambil berdasarkan tema tersebut.
+
 ## Cara Menjalankan Server
 
 > [!NOTE]
