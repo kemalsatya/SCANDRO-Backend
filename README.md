@@ -8,7 +8,7 @@
 > Clone repository project ini, apabila belum ada
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kemalsatya/SCANDRO-Backend.git
 ```
 
 - Gunakan command dibawah untuk inisialisasi
