@@ -2,13 +2,16 @@
 
 > _Project ini dibuat untuk memenuhi tugas SC BackEnd_
 
+Project ini mengimplementasikan manajemen lukisan yang ada pada sebuah museum.
+Begitu pula nama project ini diambil berdasarkan tema tersebut.
+
 ## Cara Menjalankan Server
 
 > [!NOTE]
 > Clone repository project ini, apabila belum ada
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kemalsatya/SCANDRO-Backend.git
 ```
 
 - Gunakan command dibawah untuk inisialisasi
